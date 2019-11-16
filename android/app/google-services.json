@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709183427701",
+    "firebase_url": "https://cetolmall.firebaseio.com",
+    "project_id": "cetolmall",
+    "storage_bucket": "cetolmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709183427701:android:dbf3545642685af830943c",
+        "android_client_info": {
+          "package_name": "id.cetol.cetolmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709183427701-k84laa8r1c5uvpsaa1nm4ar8ikjehq38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.cetol.cetolmall",
+            "certificate_hash": "41cd52da2b7667b2764056b003d5ed7a880822ad"
+          }
+        },
+        {
+          "client_id": "709183427701-sdjqcgbriknn2le6vniihuobo88lffee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuxpB-FpxiYARLQn0X7pL8hRrj7aRLfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709183427701-sdjqcgbriknn2le6vniihuobo88lffee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
